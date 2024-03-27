@@ -42,7 +42,7 @@
 		"eslint-plugin-babel": "^5.3.1",
 		"eslint-plugin-import": "^2.22.0",
 		"eslint-plugin-prettier": "^3.1.4",
-		"express": "^4.17.1",
+		"express": "^4.19.2",
 		"htmlnano": "^0.2.6",
 		"js-yaml": "^3.14.0",
 		"mustache": "^4.0.1",
